@@ -61,6 +61,9 @@ public class GoodsServiceTest {
     private int update(int goodsId,int num){
 
         try {
+
+
+
             countDownLatch.await();
         } catch (InterruptedException e) {
 

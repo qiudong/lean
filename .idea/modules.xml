@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lean.iml" filepath="$PROJECT_DIR$/.idea/modules/lean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lean_main.iml" group="lean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lean_test.iml" group="lean" />
+    </modules>
+  </component>
+</project>

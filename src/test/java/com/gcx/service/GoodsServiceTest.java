@@ -43,6 +43,7 @@ public class GoodsServiceTest {
                 buySucPerNum ++;
                 buySucNum = buySucNum+3;
             }
+            countDownLatch.countDown();
         }
 
             try {

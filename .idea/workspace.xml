@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92a69b7f-08f1-4df3-9d38-889c63131b0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/gcx/service/GoodsServiceTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/gcx/service/GoodsServiceTest.java" />
-    </list>
+    <list default="true" id="92a69b7f-08f1-4df3-9d38-889c63131b0a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -1445,7 +1442,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553586400005</updated>
       <workItem from="1553586405147" duration="8791000" />
-      <workItem from="1553657260913" duration="3917000" />
+      <workItem from="1553657260913" duration="4421000" />
     </task>
     <servers />
   </component>
@@ -1482,7 +1479,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12708000" />
+    <option name="totallyTimeSpent" value="13212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
